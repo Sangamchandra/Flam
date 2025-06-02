@@ -25,7 +25,4 @@ A simple Book Review Android app that allows users to browse a list of books, vi
 | UI           | RecyclerView, XML Layouts |
 | Reactive     | LiveData, ViewModel       |
 
----
-
-## 📁 Project Structure
 
